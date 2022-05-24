@@ -1,17 +1,14 @@
 * {
     box-sizing: border-box;
 }
-
 body {
     margin: 0;
 }
-
 .container {
     display: flex;
     flex-direction: column;
     height: 100vh;
 }
-
 nav {
     display: flex;
     align-items: center;
@@ -21,39 +18,32 @@ nav {
     box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
     z-index: 1;
 }
-
 nav.dark {
     background-color: #21222A;
 }
-
 .nav--icon {
     height: 30px;
     margin-right: 10px;
 }
-
 .nav--logo_text {
     color: #61DAFB;
     margin-right: auto;
     font-weight: 700;
     font-size: 22px;
 }
-
 .nav--title {
     color: #DEEBF8;
     font-weight: 600;
 }
-
 .toggler {
     display: flex;
     align-items: center;
 }
-
 .toggler p {
     font-weight: 600;
     font-size: 10PX;
     line-height: 110%;
 }
-
 .toggler--slider {
     width: 25px;
     height: 13px;
@@ -67,39 +57,31 @@ nav.dark {
     border: 1px solid black;
     box-sizing: content-box;
 }
-
 nav.dark .toggler--slider {
     border-color: white;
     background-color: #F5F5F5;
 }
-
 .toggler--slider--circle {
     height: 13px;
     width: 13px;
     background-color: white;
     border-radius: 50%;
 }
-
 nav.dark .toggler--slider--circle {
     background-color: black;
 }
-
 .toggler--light {
     color: #2B283A;
 }
-
 nav.dark .toggler--light {
     color: #918E9B;
 }
-
 .toggler--dark {
     color: #D5D4D8;
 }
-
 nav.dark .toggler-dark {
     color: #FFFFFF;
 }
-
 nav.dark .toggler--slider {
     justify-content: flex-end;
 }
@@ -114,29 +96,24 @@ main {
     background-color: white;
     color: #2B283A;
 }
-
 main.dark {
     background-image: url("./images/react-icon-large.png"); 
     background-color: #282D35;
     color: white;    
 }
-
 .main--title {
     margin: 0;
     font-size: 39px;
     letter-spacing: -0.05em;
 }
-
 .main--facts {
     margin-top: 46px;
     max-width: 400px;
 }
-
 .main--facts > li {
     line-height: 19px;
     padding-block: 10px;
 }
-
 .main--facts > li::marker {
     font-size: 1.4rem;
     color: #61DAFB;
