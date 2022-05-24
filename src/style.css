@@ -85,8 +85,6 @@ nav.dark .toggler-dark {
 nav.dark .toggler--slider {
     justify-content: flex-end;
 }
-
-/**MAIN SECTION**/
 main {
     padding: 57px 27px;
     background-image: url(./images/react-icon-large.png);
