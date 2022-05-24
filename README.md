@@ -1,6 +1,6 @@
 # React-Fact-Site
 
-You can check here: https://react-fact-site-khusamayasir.netlify.app
+You can check here: https://react-fact-site-khusamayasir.netlify.app/
 
 #
 Preview-Image:
