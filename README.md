@@ -1,9 +1,16 @@
 # React-Fact-Site
 
-You can check here: https://react-fact-site-khusamayasir.netlify.app
+<p> You can Check Here: https://react-fact-site-khusamayasir.netlify.app/ </p>
 
-#
-Preview-Image:
+<h2>Built With:</h2>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>React</li>
+</ul>
 
-![image](https://user-images.githubusercontent.com/66178232/164970519-a3b4feb1-db8c-403e-9f16-4f314dc55a2a.png)
+<h2>Preview: </h2>
 
+![preview](./preview/preview-light.png)
+
+![preview](./preview/preview-dark.png)
