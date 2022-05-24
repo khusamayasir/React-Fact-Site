@@ -10,6 +10,7 @@ export default function App() {
     function toggleDarkMode() {
         setDarkMode(prevMode => !prevMode)
     }
+    
     return (
         <div className="container">
             <Navbar 
