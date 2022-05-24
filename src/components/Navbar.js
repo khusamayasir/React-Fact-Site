@@ -1,5 +1,3 @@
-/*NAVBAR-JS*/
-
 import React from "react"
 import reactLogo from "../images/react-icon-small.png"
 
